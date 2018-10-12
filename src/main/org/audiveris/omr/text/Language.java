@@ -158,7 +158,7 @@ public class Language
         //~ Instance fields ------------------------------------------------------------------------
 
         private final Constant.String defaultSpecification = new Constant.String(
-                "deu+eng+fra",
+                "deu+eng+fra+jpn",
                 "OCR language(s)");
     }
 
